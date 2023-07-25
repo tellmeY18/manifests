@@ -56,6 +56,8 @@
     name="gnome-shell-extension-blur-my-shell" remote="aur"></project>
   <project path="packages/gnome-shell-extension-appindicator"
     name="gnome-shell-extension-appindicator" remote="aur"></project>
+  <project path="packages/nouveau-fw "
+    name="nouveau-fw" remote="aur"></project>
 
   <!-- Output profiles -->
   <profile name="gnome" dm="gdm">
